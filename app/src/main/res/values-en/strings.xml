@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temperature">Temperature:</string>
+    <string name="hint_temperature">Enter the temperature</string>
+    <string name="celsiusToFahrenheit">Celsius to Fahrenheit</string>
+    <string name="celsiusToKelvin">Celsius to Kelvin</string>
+    <string name="FahrenheitToCelsius">Fahrenheit to Celsius</string>
+    <string name="FahrenheitToKelvin">Fahrenheit to Kelvin</string>
+    <string name="KelvinToCelsius">Kelvin to Celsius</string>
+    <string name="KelvinToFahrenheit">Kelvin to Fahrenheit</string>
+    <string name="msgCtoF">Conversion from Celsius to Fahrenheit performed.</string>
+    <string name="msgCtoK">Conversion from Celsius to Kelvin performed.</string>
+    <string name="msgFtoC">Fahrenheit to Celsius conversion performed.</string>
+    <string name="msgFtok">Fahrenheit to Kelvin conversion performed.</string>
+    <string name="msgKtoC">Conversion from Kelvin to Celsius performed.</string>
+    <string name="msgKtoF">Conversion from Kelvin to Fahrenheit performed.</string>
+    <string name="error_popup_notify">It was not possible to convert the temperature of the data provided.</string>
+</resources>
